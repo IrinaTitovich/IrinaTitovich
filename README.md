@@ -15,13 +15,15 @@ Angular project: https://irinatitovich.github.io/AppAngular-FeelGoodFood/
 ---
 
  <p>
+  
  <img width="110" align="right" src="https://github.com/IrinaTitovich/img/blob/main/kisspng-watercolor-painting-drawing-illustration-hand-colored-parrot-birds-splash-5a72a8d9104644.4708394715174637690667.png?raw=true">
+ 
 </p>
 
 ##### Мои хобби очень разнообразны
 
 
-В данный момент я увлекаюсь рисованием 🎨, обожаю путешествовать🗻, а также пишу статьи для строительного блога 🏢 [vashproekt.by](http://vashproekt.by/blog).
+В данный момент я увлекаюсь рисованием, обожаю путешествовать, а также пишу статьи для строительного блога [vashproekt.by](http://vashproekt.by/blog).
 
 
 
