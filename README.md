@@ -10,6 +10,8 @@ HTML/CSS: https://irinatitovich.github.io/task4-page/
 
 Angular project: https://irinatitovich.github.io/AppAngular-FeelGoodFood/
 
+Vue: https://irinatitovich.github.io/cryptonomicon/
+
 <br/>
 
 ---
