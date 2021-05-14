@@ -30,15 +30,3 @@ Vue: https://irinatitovich.github.io/cryptonomicon/
 
 ---
 
-##### Немного о работе
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" ></a>
-</p>
-
-<p align='center'>👆</p>
-<p align='center'>
- Это мой рабочий аккаунт в LinkedIn
-</p>
-
----
